@@ -9,7 +9,7 @@ créer des hashs et chiffrer les données.
 
 .. warning::
     Les fonctionnalités d'encryption fournies par la classe Security reposent
-    sur l'extension dépréciée ``mcrypt``. Si vous utilisez PHP>=7.1, vous devez
+    sur l'extension dépréciée ``mcrypt``. Si vous utilisez PHP>=7.2, vous devez
     installer ``mcrypt`` via PECL.
 
 L'API de Security

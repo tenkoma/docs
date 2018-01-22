@@ -8,7 +8,7 @@ Security
 
 .. warning::
     Security によって提供される暗号化機能は、非推奨な ``mcrypt`` 拡張に依存します。もし
-    PHP=>7.1 を使用している場合、PECL 経由で ``mcrypt`` をインストールする必要があります。
+    PHP>=7.2 を使用している場合、PECL 経由で ``mcrypt`` をインストールする必要があります。
 
 Security API
 ============

@@ -12,7 +12,7 @@ Requirements
 - HTTP Server. For example: Apache. mod\_rewrite is preferred, but by no means
   required.
 - PHP 5.3.0 or greater (CakePHP version 2.6 and below support PHP 5.2.8 and
-  above). CakePHP version 2.8.0 and above support PHP 7. To use PHP above 7.1
+  above). CakePHP version 2.8.0 and above support PHP 7. To use PHP above 7.2
   you may need to install mcrypt via PECL. See
   :doc:`/core-utility-libraries/security` for more information.
 

@@ -9,7 +9,7 @@ hashing and encrypting data.
 
 .. warning::
     The encryption features offered by Security rely on the deprecated
-    ``mcrypt`` extension. If you are using PHP>=7.1 you will need to install
+    ``mcrypt`` extension. If you are using PHP>=7.2 you will need to install
     ``mcrypt`` via PECL.
 
 Security API

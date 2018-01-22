@@ -15,7 +15,7 @@ Conditions requises
 - PHP 5.3.0 ou supérieur (La version 2.6 de CakePHP et les versions inférieures
   supportent PHP 5.2.8 et supérieur). La version 2.8.0 de CakePHP et les
   versions supérieures supportent PHP 7. Pour utiliser une version PHP
-  supérieure à 7.1, vous aurez sans doute besoin d'installer mcrypt avec PECL.
+  supérieure à 7.2, vous aurez sans doute besoin d'installer mcrypt avec PECL.
   Consultez :doc:`/core-utility-libraries/security` pour plus d'informations.
 
 Techniquement, un moteur de base de données n'est pas nécessaire, mais nous
