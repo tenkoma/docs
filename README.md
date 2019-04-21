@@ -109,9 +109,9 @@ Build the Documentation Manually
 To build the documentation you'll need the following for linux/OS X:
 
 * Make
-* Python
-* Sphinx 1.4.5
-* PhpDomain for sphinx >=0.2.0
+* Python3
+* Sphinx >=2.0.0
+* PhpDomain for sphinx >=0.5.0
 
 You can install dependencies using:
 
